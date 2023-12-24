@@ -25,4 +25,3 @@ production:
 
 Package Documentation here: [https://lamini-ai.github.io/](https://lamini-ai.github.io/)
 
-# lamini-python-client
