@@ -26,6 +26,7 @@ dependencies = [
     "faiss-cpu",
     "azure-storage-blob",
     "scikit-learn",
+    "pydantic >=2.5.2, <3"
 ]
 
 [tool.setuptools]
